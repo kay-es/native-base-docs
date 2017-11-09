@@ -1212,15 +1212,6 @@
                     <td>allows the modal to be rotated to any of the specified orientations</td>
                     <td></td>
                 </tr>
-                <tr>
-                    <td>
-                        <ul>
-                            <li>headerBackButtonText</li>
-                        </ul>
-                    </td>
-                    <td>used for custom backButton text</td>
-                    <td></td>
-                </tr>
 
 
 
